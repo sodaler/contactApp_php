@@ -1,0 +1,44 @@
+a {
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+body {
+    background-image: url(resource/crossword.png);
+}
+
+.w-400 {
+    width: 400px;
+}
+
+.fs-xs {
+    font-size: 1rem;
+}
+
+.w-10 {
+    width: 10%;
+}
+
+.w-15 {
+    width: 15%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.fs-big {
+    font-size: 5rem !important;
+}
+
+.fs-sm {
+    font-size: 1.4rem;
+}
+
+
+small {
+    color: #bbb;
+    font-size: 0.7rem;
+    text-align: right;
+}
